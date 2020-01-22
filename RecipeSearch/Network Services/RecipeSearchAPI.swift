@@ -46,8 +46,5 @@ struct RecipeSearchAPI {
         }
       }
     }
-    
-    
   }
-  
 }
